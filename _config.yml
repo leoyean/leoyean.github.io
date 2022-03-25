@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Personal Website | Home"
 title_separator          : "-"
 name                     : &name "Leo Yean"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "       Leo Yean"
+  name             : "Leo Yean"
   avatar           : "profile.jpg"
   bio              : "Personal Academic Website"
   location         : "Beijing"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://leoyean.github.io/"
+  github           : "/leoyean/leoyean.github.io"
   google_plus      :
   keybase          :
   instagram        :
